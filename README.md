@@ -20,7 +20,7 @@ gcc main.c violation.c -o traffic
 ## Run
 ./traffic
 
-Author
+##Author
 ->Nishant kumar
 ->Om chuphal
 ->Ashwal Awasthi
